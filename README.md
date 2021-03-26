@@ -5,27 +5,19 @@ A **new** sentence.
 * list
 
 > Самая лучшая программа 
+Ниже начинается многострочный блок кода
 
-```C#
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+    <!doctype html>
+    <html>
+        <head>
+            <!-- Заголовок документа -->
+        </head>
+        <body>
+            <!-- Тело документа -->
+        </body>
+    </html>
 
-namespace ConsoleApp1
-{
-    class Program
-    {
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, world!");
-        Console.ReadLine();
-    }
-    }
-}
-```
-
+Блок кода завершился
 1. Enumerated
 2. Enumerated
 3. Enumerated
