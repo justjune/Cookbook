@@ -41,4 +41,4 @@ namespace ConsoleApp1
 }
 ```
 См. пример отображения страницы в популярной "читалке":
-![Код программы не отображается](https://github.com/justjune/Cookbook/blob/main/BadMarkdown.png)
+![Код программы не отображается](https://github.com/justjune/Cookbook/blob/main/BadMarkdown.jpg)
