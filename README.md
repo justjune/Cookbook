@@ -5,7 +5,7 @@ A **new** sentence.
 * list
 
 > Самая лучшая программа 
-Ниже начинается многострочный блок кода
+Ниже начинается многострочный блок кода (который распознается всеми md "читалками")[Markdown on Wikipedia](https://ru.wikipedia.org/wiki/Markdown)
 
     <!doctype html>
     <html>
@@ -21,3 +21,22 @@ A **new** sentence.
 1. Enumerated
 2. Enumerated
 3. Enumerated
+Этот блок кода может не читаться "читалками" не Гит:
+```C#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+namespace ConsoleApp1
+{
+    class Program
+    {
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, world!");
+        Console.ReadLine();
+    }
+    }
+}
+```
