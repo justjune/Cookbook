@@ -40,3 +40,5 @@ namespace ConsoleApp1
     }
 }
 ```
+См. пример отображения страницы в популярной "читалке":
+![Код программы не отображается](https://github.com/justjune/Cookbook/BadMarkdown.png?raw=true)
