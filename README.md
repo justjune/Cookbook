@@ -1,10 +1,12 @@
-...# Cookbook
+# Cookbook
+
 A **new** sentence.
+
 * list
 * list
 * list
 
-> Самая лучшая программа 
+> Самая лучшая программа
 Ниже начинается многострочный блок кода (который распознается всеми md "читалками")[Markdown on Wikipedia](https://ru.wikipedia.org/wiki/Markdown)
 
     <!doctype html>
@@ -18,10 +20,13 @@ A **new** sentence.
     </html>
 
 Блок кода завершился
+
 1. Enumerated
 2. Enumerated
 3. Enumerated
+
 Этот блок кода может не читаться "читалками" не Гит:
+
 ```C#
 using System;
 using System.Collections.Generic;
@@ -40,7 +45,10 @@ namespace ConsoleApp1
     }
 }
 ```
+
 См. пример отображения страницы в популярной "читалке":
 ![Код программы не отображается](https://github.com/justjune/Cookbook/blob/main/BadMarkdown.png)
+
 ## Математические выражения
+
 Compute \(f(x) = x^2 + 2\) if \(x=2\).
