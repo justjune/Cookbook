@@ -42,3 +42,5 @@ namespace ConsoleApp1
 ```
 См. пример отображения страницы в популярной "читалке":
 ![Код программы не отображается](https://github.com/justjune/Cookbook/blob/main/BadMarkdown.png)
+## Математические выражения
+Compute \(f(x) = x^2 + 2\) if \(x=2\).
